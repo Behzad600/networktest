@@ -13,8 +13,8 @@
 *.whatsapp.com
 *.jnn-pa.googleapis.com
 *.doubleclick.net
-*.googlevideo.com
-*.youtube.com
+!*.googlevideo.com
+!*.youtube.com
 *.ytimg.com
 *.atlassian.*
 *.trello.*
